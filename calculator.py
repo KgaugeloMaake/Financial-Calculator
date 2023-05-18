@@ -2,7 +2,7 @@ import math
 
 print("\nThe simple calculator can be used to calulate investemnts in simple or compound interest. \nYou can also calculate a bond repayment\n")
 
-# def menu():
+
 
 def main_menu():
     option1 = int(input("\nWhat would you like to calculate?\n1.Investment\n2.Bond repayment\n"))
